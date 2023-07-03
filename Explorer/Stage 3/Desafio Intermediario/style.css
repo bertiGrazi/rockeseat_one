@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  background-color: #EFEFEF;
+}
+
+header {
+  background-color: red;
+  height: 436px;
+  width: 100%;
+}
